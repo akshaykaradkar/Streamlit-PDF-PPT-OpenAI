@@ -53,6 +53,9 @@ Follow these steps to set up and run the project locally:
 - `.env`: Environment variables file (ensure this is not included in version control for security).
 - `requirements.txt`: A list of all dependencies.
 
+## Screenshot
+![Screenshot of Web UI](https://i.imgur.com/jv551H6.png)
+
 ## How It Works
 
 1. **PDF Upload**: Users upload a PDF file through the Streamlit interface.
